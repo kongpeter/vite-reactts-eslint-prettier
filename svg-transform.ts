@@ -1,5 +1,4 @@
-// ./svg-transform.js
-export default {
+module.exports = {
   process() {
     return { code: 'module.exports = {};' };
   },
